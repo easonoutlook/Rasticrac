@@ -1,5 +1,5 @@
 # Rasticrac
-Rasticrac v3.2.5 is for Crack IPA file, copy from appaddict.org, just for study. No support PlugIn and Watch App.
+Rasticrac v3.2.5 is for Crack IPA file, copy from appaddict.org, just for study. Now support PlugIn and Watch App.
 
 How to use.
 
